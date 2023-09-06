@@ -1,0 +1,3 @@
+[submodule "ProjetoGameStore"]
+	path = ProjetoGameStore
+	url = https://github.com/trizdoravante/ProjetoGameStore.git
